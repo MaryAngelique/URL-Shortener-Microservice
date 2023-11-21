@@ -5,7 +5,7 @@ When you are done, make sure a working demo of your project is hosted somewhere 
 HINT: Do not forget to use a body parsing middleware to handle the POST requests. Also, you can use the function dns.lookup(host, cb) from the dns core module to verify a submitted URL.
 
 ### Solution Link: https://fcc-urlshortener.angelique09.repl.co/
-### GitHub Link:
+### GitHub Link: https://github.com/MaryAngelique/URL-Shortener-Microservice
 
 ##  Tests
 Passed:You should provide your own project, not the example URL.
